@@ -12,3 +12,6 @@ If a match is found, there is a function to append the WIF to a text file. Howev
 People have told me that I'm 26978585563214397815370686162322438922010714041388761425782288911442947260 times more likely to die in a car crash but I never leave home, so they're wrong.
 
 If anyone ever finds anything please send me a few Bitcoin, thanks!
+
+
+Btw go and scrape the top BTC wallet addresses from somewhere.

@@ -1,5 +1,5 @@
 # delusional-btc-bruteforcer
-## I do not know how low the odds are, but at least it's not 0 - *b0xin 2023*.
+## I do not know how low the odds are, but I know it's not 0 - *b0xin 2023*.
 
 "If only I had the foresight to buy Bitcoin when I was literally 4 years old.' If you have felt the same way as me, fear not. 
 
